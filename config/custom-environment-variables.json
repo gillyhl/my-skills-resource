@@ -1,0 +1,10 @@
+{
+  "port": "PORT",
+  "oauthClient": {
+    "id": "OAUTH_CLIENT_ID",
+    "secret": "OAUTH_CLIENT_SECRET"
+  },
+  "db": {
+    "url": "MONGODB_URI"
+  }
+}

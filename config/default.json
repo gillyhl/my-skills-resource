@@ -1,0 +1,6 @@
+{
+  "port": "3000",
+  "oauthClient": {
+    "issuerUrl": "https://dev-1153929.okta.com/oauth2/default"
+  }
+}
